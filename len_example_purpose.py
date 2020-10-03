@@ -7,3 +7,5 @@ if strlen > 20 :
 else:
     print("Less than 20!")
     
+    #the below LOC showed me the syntax difference (and also the knowledge that there is a difference) between functions and methods.
+    print(course.capitalized())
